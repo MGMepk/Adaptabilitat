@@ -179,3 +179,13 @@ h2 {
 }
 
 .post_date { color: #177212; }
+
+#video{
+	margin-left: 25px;
+	border-radius: 16px;
+    margin: 0 auto;
+    width: 600px;
+    /* max-width: 100%; */
+	max-height: min-content;
+    overflow: hidden;
+}
